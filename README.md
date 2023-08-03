@@ -10,6 +10,7 @@ The objective is to develop an Employee Management System in Python that utilize
 - Remove Employee: A function will be created to delete the record of any existing employee from the Employee table.
 - Promote Employee: The system will facilitate making changes to an employee's record, such as promotions, by updating the fetched data from the database.
 - Display Employees: Another function will enable viewing information about all existing employees in the database.
+
 The Employee Management System operates by fetching data from the database, applying the necessary changes through the respective functions, and updating the records accordingly. Utilizing a database ensures that the information remains intact even after multiple program sessions, preventing data loss.
 
 
